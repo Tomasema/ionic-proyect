@@ -1,8 +1,8 @@
 {
-  "name": "sass",
-  "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "name": "ionic-test",
+  "version": "v0.1.0",
+  "author": "Tomas Martinez",
+  "homepage": "https://www.linkedin.com/in/tomasema-martinez/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",

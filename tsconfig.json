@@ -22,6 +22,10 @@
       "es2018", 
       "dom"
     ],
+    "paths": {
+      // Pages
+      "@pages/views": ["src/app/pages/views/index.ts"]
+    },
     "useDefineForClassFields": false
   },
   "angularCompilerOptions": {
